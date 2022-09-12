@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bitcoinone.github.io/static/css/main.0d7d2a63.css",
+    "main.js": "/bitcoinone.github.io/static/js/main.b1f33aef.js",
+    "static/media/credit-card.png": "/bitcoinone.github.io/static/media/credit-card.f34069580221dfa033d6.png",
+    "static/media/globe.png": "/bitcoinone.github.io/static/media/globe.770bd62a779786d97d56.png",
+    "static/media/tradingtools.png": "/bitcoinone.github.io/static/media/tradingtools.5ea82959b77c61980a7f.png",
+    "static/media/banks.png": "/bitcoinone.github.io/static/media/banks.49479ec25dc3b88b80d2.png",
+    "static/media/buy.png": "/bitcoinone.github.io/static/media/buy.ad142f4afdbc24b44921.png",
+    "static/media/faq.png": "/bitcoinone.github.io/static/media/faq.a02f378ebbe74ac29438.png",
+    "static/media/wallet.png": "/bitcoinone.github.io/static/media/wallet.de05ef30067eae683ec3.png",
+    "static/media/signup.png": "/bitcoinone.github.io/static/media/signup.be40b3d79af95903f984.png",
+    "static/media/okay.png": "/bitcoinone.github.io/static/media/okay.b42afe2bc7cadee7abde.png",
+    "static/media/logo.svg": "/bitcoinone.github.io/static/media/logo.8885c9c02fdc8823604814ab93b33d5d.svg",
+    "static/media/arrow.svg": "/bitcoinone.github.io/static/media/arrow.96127f0577a9380edbf95f0b5a08e4bf.svg",
+    "static/media/star1.svg": "/bitcoinone.github.io/static/media/star1.c030fb21549c14755042b29894e1e722.svg",
+    "index.html": "/bitcoinone.github.io/index.html",
+    "static/media/circle1.svg": "/bitcoinone.github.io/static/media/circle1.8e2d3a79252076f122ca099c0bbafc3f.svg",
+    "static/media/circle2.svg": "/bitcoinone.github.io/static/media/circle2.29a45ef158a1c61b9eedadeb119921b3.svg",
+    "static/media/circle3.svg": "/bitcoinone.github.io/static/media/circle3.c595ea7d555941c8362e06c13a8f6850.svg",
+    "main.0d7d2a63.css.map": "/bitcoinone.github.io/static/css/main.0d7d2a63.css.map",
+    "main.b1f33aef.js.map": "/bitcoinone.github.io/static/js/main.b1f33aef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7d2a63.css",
+    "static/js/main.b1f33aef.js"
+  ]
+}
